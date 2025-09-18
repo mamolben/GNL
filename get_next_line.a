@@ -1,0 +1,2 @@
+gcc -c get_next_line.c get_next_line_utils.c
+ar rcs get_next_line.a get_next_line.o get_next_line_utils.o
